@@ -8,7 +8,7 @@ import mechanize,cookielib
 
 print '- - DEDICATED TO CALIPHATE FIGHTERS - -'
 
-agree=raw_input('Lanjutkan (y/n)? ')
+agree=raw_input('Boleh minta data diri (y/n)? ')
 nama=''
 nomor=''
 if agree=='y':
