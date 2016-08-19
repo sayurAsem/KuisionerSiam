@@ -7,9 +7,8 @@ import mechanize,cookielib
 
 
 print '- - DEDICATED TO CALIPHATE FIGHTERS - -'
-print '\nSesungguhnya ilmu ini milik Allah. Maka janganlah sombong wahai manusia,\nkarena Dialah Tuhan yang maha esa dan tiada Tuhan yang lain'
-print 'yang memiliki segalanya di Semesta, Dialah Allah yang ditangannya aku hidup dan mati\n'
-agree=raw_input('Apakah Anda Ingin Mengkaji Islam Dari Akar Hingga Daun (y/n)? ')
+
+agree=raw_input('Lanjutkan (y/n)? ')
 nama=''
 nomor=''
 if agree=='y':
